@@ -13,8 +13,8 @@ where:
 - page table size is the number of pages that can be stored in the page table (in pages)
 - TLB size is the number of entries in the TLB (in pages)
 - page replacement algorithm is the algorithm to use for page replacement. Possible options are FIFO, LRU, OPT.
-4. The output of the simulation will include statistics on the number of page faults, the TLB hit rate, and the page replacement algorithm used
-5. Find the sample input files in the Input folder
+- The output of the simulation will include statistics on the number of page faults, the TLB hit rate, and the page replacement algorithm used
+- Find the sample input files in the Input folder
 
 <h1>Dependencies</h1>
 
